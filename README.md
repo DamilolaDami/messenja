@@ -21,7 +21,7 @@
 
 # Screenshot:
 
-<img src="/assets/images/messaging_final.png"/>
+<img src="/assets/images/messing_final.png"/>
 <img src="/assets/images/messaging_final-2.png"/>
 
 ## Getting Started
